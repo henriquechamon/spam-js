@@ -1,0 +1,16 @@
+{
+  "name": "spamjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "henrique",
+  "license": "ISC",
+  "dependencies": {
+    "keypress": "^0.2.1",
+    "node-key-sender": "^1.0.11",
+    "puppeteer": "^19.11.1"
+  }
+}
